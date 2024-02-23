@@ -17,6 +17,7 @@
  * limitations under the License.
  */
 
+
 export const SERVER_NODEJS_SRC_DIR = 'server';
 export const PACKAGE_NAME_NODEJS = 'com.jhipster.node';
 export const CACHE_PROVIDER_NODEJS = 'no';
